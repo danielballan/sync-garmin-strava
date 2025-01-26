@@ -1,4 +1,15 @@
+## Why?
+
+Garmin can automatically sync activities from Stava, but:
+
+1. There is no easy way to select which activities to sync, or when to sync
+   them.
+2. Garmin picks a boring title by default, which can only be changed by editing
+   the activity in Stave after it has posted.
+
 ## Usage
+
+Download latest activity from Garmin and upload it to Stava.
 
 ```
 pixi run download
